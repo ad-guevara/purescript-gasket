@@ -1,5 +1,8 @@
 # Gasket
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Status: Early Development](https://img.shields.io/badge/Status-Early%20Development-orange)
+
 > A functional boundary between Google Apps Script and the real world.
 
 ## Vision
