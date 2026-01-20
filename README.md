@@ -38,20 +38,6 @@ It is a **thin gasket**: a minimal layer that isolates effects, models domain lo
 
 ---
 
-## Non-Goals
-
-Gasket is intentionally **not**:
-
-- A complete replacement for the PureScript standard library
-- A port of Haskell abstractions “for completeness”
-- A macro-heavy or type-level playground
-- A framework that hides Google Apps Script behavior
-- A general-purpose JavaScript FP library
-
-If something does not clearly improve **correctness**, **clarity**, or **maintainability** under GAS constraints, it does not belong here.
-
----
-
 ## Philosophy
 
 Google Apps Script is an *effectful, stateful, and global* environment.
