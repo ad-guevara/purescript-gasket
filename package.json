@@ -1,0 +1,21 @@
+{
+    "name": "purescript-gasket",
+    "version": "1.0.0",
+    "private": true,
+    "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: Early Development](https://img.shields.io/badge/Status-Early%20Development-orange)",
+    "main": "index.js",
+    "scripts": {
+        "build": "spago build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ad-guevara/purescript-gasket.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ad-guevara/purescript-gasket/issues"
+    },
+    "homepage": "https://github.com/ad-guevara/purescript-gasket#readme"
+}

@@ -1,0 +1,8 @@
+package:
+  name: gasket-gas
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - run
+    - gasket-core

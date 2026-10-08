@@ -1,0 +1,8 @@
+package:
+  name: gasket-core
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - run
+    - typelevel-prelude
